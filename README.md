@@ -53,13 +53,15 @@ php artisan key:generate
 ```
 php artisan migrate --seed
 ```
-## Instalación
+
+## Uso de la aplicación
 
 Para el uso del proyecto se crearon dos usuarios por defecto
 
 usuario             credencial
 
 -cliente@gmail.com  password
+
 -admin@gmail.com    password
 
 
